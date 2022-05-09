@@ -22,4 +22,6 @@ SSIS package:
   ![obraz](https://user-images.githubusercontent.com/66008982/167425531-02bf62ab-8dae-4747-8917-ba3ab658e0f2.png)
 
 
+In this repo there is a file called sprawozdanie.pdf, which contains a full description of a project written in Polish.
+
 All data in example files are generated and do not belong to anyone. 
